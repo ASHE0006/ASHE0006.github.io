@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>ASHE0006的网站</title>
-</head>
-<body>
-  <h1 style="color:blue;text-align:center">🎉 我成功啦！</h1>
-</body>
-</html>
